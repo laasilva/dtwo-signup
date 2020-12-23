@@ -30,8 +30,9 @@ public class SpringFoxConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfo(
-                "signup-service API",
-                "Documentation for signup-service API. All the public endpoints will be here.",
+                "signup API",
+                "Documentation for signup API. All the public endpoints will be here. " +
+                        "Find the open source code for this service on github: <b><a href='https://github.com/laasilva/dtwo-signup.git'>dtwo-signup</a></b>",
                 "1.0.0",
                 "",
                 new Contact("Larissa Silva", "https://github.com/laasilva", "cmdrlias@gmail.com"),
