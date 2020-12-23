@@ -10,10 +10,10 @@
 	</parent>
 
 	<groupId>io.dtwo.api</groupId>
-	<artifactId>signup-api</artifactId>
+	<artifactId>signup</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>signup-api</name>
-	<description>signup-service API</description>
+	<name>signup</name>
+	<description>signup API</description>
 
 	<properties>
 		<java.version>1.8</java.version>
